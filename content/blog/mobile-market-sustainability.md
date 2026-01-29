@@ -1,7 +1,7 @@
 ---
 title: "Sustainability Planning for Mobile Markets: Beyond the First Grant"
 date: "2026-01-29"
-excerpt: "The most common mobile market failure mode isn\'t operational problems."
+excerpt: "The most common mobile market failure mode isn't operational problems."
 category: "Funding"
 slug: "mobile-market-sustainability"
 pillar: "funding-mobile-markets"
@@ -9,8 +9,8 @@ relatedSolutions: ['farmers-truck', 'pantry-truck']
 ---
 
 
-The most common mobile market failure mode isn\'t operational problems.
-It\'s running out of funding. Programs that launch successfully with
+The most common mobile market failure mode isn't operational problems.
+It's running out of funding. Programs that launch successfully with
 grant support often close when that grant ends without a replacement.
 Sustainability planning from day one is essential.
 
@@ -41,13 +41,13 @@ required.
 Diversification: The Core Strategy
 ----------------------------------
 
-Sustainability doesn\'t mean self-sufficiency. It means not depending on
+Sustainability doesn't mean self-sufficiency. It means not depending on
 any single funding source. Diversified funding survives the loss of
 individual components.
 
 A sustainable funding mix might include grant funding from multiple
 sources (foundations, government, health systems), organizational
-support (subsidy from parent organization\'s operating budget), earned
+support (subsidy from parent organization's operating budget), earned
 revenue (sales income covering a portion of costs), in-kind
 contributions (donated space, volunteer labor, product contributions),
 and sponsorships (corporate support for specific aspects).
@@ -73,7 +73,7 @@ Year three and beyond: Establish the diversified funding mix. Formalize
 ongoing partnerships. Build reserves for contingencies. Institutionalize
 the program within organizational structure.
 
-This isn\'t a formula. Specific timelines depend on context. But it
+This isn't a formula. Specific timelines depend on context. But it
 illustrates that sustainability is built, not assumed.
 
 Revenue Enhancement Strategies
@@ -109,7 +109,7 @@ time to build but offer stability.
 
 Municipal contracts for food access services can provide ongoing
 funding. This requires the mobile market to become part of the
-community\'s food security infrastructure.
+community's food security infrastructure.
 
 Food bank integration embeds mobile markets within established
 organizations with diversified funding. For some programs, becoming a

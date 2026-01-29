@@ -119,7 +119,7 @@ staff, and appropriate infrastructure matter.
 Present realistic budgets tied to specific activities. Line items should
 connect clearly to project goals.
 
-Describe meaningful evaluation plans. USDA wants to know how you\'ll
+Describe meaningful evaluation plans. USDA wants to know how you'll
 measure success.
 
 Include strong partnerships. Letters of support from community partners,
@@ -131,7 +131,7 @@ Finding Current Information
 USDA programs evolve. Funding levels, priorities, and application
 requirements change annually.
 
-USDA\'s National Institute of Food and Agriculture (NIFA) maintains
+USDA's National Institute of Food and Agriculture (NIFA) maintains
 current information on grant programs at nifa.usda.gov. Subscribe to
 funding opportunity announcements for programs relevant to your work.
 

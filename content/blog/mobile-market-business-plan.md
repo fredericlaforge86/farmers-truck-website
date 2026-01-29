@@ -11,18 +11,18 @@ relatedSolutions: ['farmers-truck', 'pantry-truck', 'cherry-truck']
 
 A business plan for a mobile market serves multiple purposes. It
 clarifies your own thinking. It communicates with potential funders. It
-guides operational decisions. Whether you\'re a food bank launching a
+guides operational decisions. Whether you're a food bank launching a
 new program or a nonprofit expanding into mobile food access, a
 structured plan improves your chances of success.
 
-Here\'s what a complete mobile market business plan should cover.
+Here's what a complete mobile market business plan should cover.
 
 Executive Summary
 -----------------
 
 Start with a concise overview. One page maximum. Cover your
-organization\'s mission and why a mobile grocery store fits. The
-community need you\'re addressing. Your basic operating model.
+organization's mission and why a mobile grocery store fits. The
+community need you're addressing. Your basic operating model.
 Anticipated costs and funding strategy. Expected outcomes.
 
 This section is often written last but read first. Make it clear and
@@ -32,7 +32,7 @@ alone.
 Community Need Assessment
 -------------------------
 
-Document the problem you\'re solving with specificity.
+Document the problem you're solving with specificity.
 
 Geographic analysis: Where are the food access gaps in your service
 area? Use USDA food access research, local data, and your own community
@@ -47,7 +47,7 @@ fresh food access.
 
 Current resources: What food access options currently exist? Food
 pantries, farmers markets, grocery stores within reach. Where are the
-gaps that current resources don\'t fill?
+gaps that current resources don't fill?
 
 Community input: Document conversations with community members,
 organizations, and leaders. What do people say they need? How did you
@@ -69,7 +69,7 @@ Product selection: What will you sell? Fresh produce only, or also
 dairy, eggs, staples? How does product selection match customer needs?
 
 Pricing strategy: At cost? Below cost with subsidy? Retail competitive?
-What\'s your philosophy on pricing and how does it affect accessibility?
+What's your philosophy on pricing and how does it affect accessibility?
 
 Stop locations: Where will you operate? List planned or prospective
 locations. How did you select them? What community partnerships support
@@ -118,7 +118,7 @@ identified.
 Outcomes and Evaluation
 -----------------------
 
-Define success and how you\'ll measure it.
+Define success and how you'll measure it.
 
 Output metrics: Stops operated, customers served, pounds distributed,
 SNAP transactions, repeat customer rates.
@@ -132,12 +132,12 @@ progress? How will results inform program adjustments?
 Risk Assessment
 ---------------
 
-Acknowledge what could go wrong and how you\'ll address it.
+Acknowledge what could go wrong and how you'll address it.
 
 Common risks: Lower-than-expected customer turnout, funding gaps,
 vehicle breakdowns, staffing turnover, community resistance.
 
-Mitigation strategies: For each risk, what\'s your contingency plan? How
+Mitigation strategies: For each risk, what's your contingency plan? How
 will you adapt if assumptions prove wrong?
 
 Timeline
@@ -154,7 +154,7 @@ do you go live?
 Growth phase: Expansion, optimization, sustainability. What does year
 two and three look like?
 
-A well-prepared business plan demonstrates that you\'ve thought through
+A well-prepared business plan demonstrates that you've thought through
 the program seriously. It builds funder confidence and guides your own
 decision-making. Invest the time to do it well.
 

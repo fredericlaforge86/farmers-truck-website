@@ -1,7 +1,7 @@
 ---
 title: "Technology for Mobile Markets: POS, Inventory, and Scheduling Tools"
 date: "2026-01-29"
-excerpt: "Mobile markets don\'t require sophisticated technology, but the right"
+excerpt: "Mobile markets don't require sophisticated technology, but the right"
 category: "Implementation"
 slug: "mobile-market-technology"
 pillar: "how-to-start-a-mobile-market"
@@ -9,8 +9,8 @@ relatedSolutions: ['farmers-truck', 'pantry-truck', 'cherry-truck']
 ---
 
 
-Mobile markets don\'t require sophisticated technology, but the right
-tools make operations smoother and provide data for improvement. Here\'s
+Mobile markets don't require sophisticated technology, but the right
+tools make operations smoother and provide data for improvement. Here's
 what to consider for point-of-sale systems, inventory management, and
 scheduling.
 
@@ -30,13 +30,13 @@ market operates. Cellular data connections are standard. Having a backup
 option (mobile hotspot on a different carrier) helps when signals are
 weak.
 
-Inventory tracking integration varies. Some systems track what\'s sold
+Inventory tracking integration varies. Some systems track what's sold
 automatically. Others require separate inventory management. Integrated
 systems reduce manual work but may cost more.
 
 Durability for mobile environments matters. Systems will be set up and
 broken down daily, used outdoors in various weather, and handled by
-multiple people. Consumer-grade tablets in flimsy cases don\'t last.
+multiple people. Consumer-grade tablets in flimsy cases don't last.
 
 Popular options for mobile market POS include Square, Clover, and
 specialized systems like MarketLink designed for farmers markets and
@@ -110,7 +110,7 @@ considerations.
 What You Actually Need
 ----------------------
 
-Many mobile markets overcomplicate technology decisions. Here\'s a
+Many mobile markets overcomplicate technology decisions. Here's a
 minimal viable setup.
 
 A tablet-based POS with EBT capability and basic reporting. Square is
@@ -132,7 +132,7 @@ Common Technology Mistakes
 --------------------------
 
 Over-investing in systems before understanding needs leads to paying for
-features you don\'t use.
+features you don't use.
 
 Under-investing in EBT capability excludes your core customer base.
 

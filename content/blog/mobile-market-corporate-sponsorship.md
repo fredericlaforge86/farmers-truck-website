@@ -18,14 +18,14 @@ effectively.
 What Corporate Sponsors Want
 ----------------------------
 
-Corporate sponsorship isn\'t philanthropy. It\'s marketing and community
+Corporate sponsorship isn't philanthropy. It's marketing and community
 relations investment. Sponsors expect returns, even if those returns are
 reputational rather than financial.
 
 Visibility matters. Sponsors want their support to be seen. Logo
 placement on vehicles, recognition at market stops, mentions in
 marketing materials, and social media presence demonstrate the
-sponsor\'s community commitment.
+sponsor's community commitment.
 
 Community alignment supports corporate goals. Companies want to be
 associated with causes their customers and employees care about. Fresh
@@ -49,13 +49,13 @@ Structuring Sponsorship Packages
 
 Effective sponsorship packages offer clear value propositions.
 
-Vehicle naming or branding is a primary asset. \'The ABC Company Fresh
-Mobile Market\' or prominent logo placement on the mobile market truck
+Vehicle naming or branding is a primary asset. 'The ABC Company Fresh
+Mobile Market' or prominent logo placement on the mobile market truck
 provides ongoing visibility at every stop.
 
 Event or stop sponsorship lets sponsors claim specific activations.
-\'This week\'s visit to Sunrise Senior Housing is sponsored by XYZ
-Bank\' creates a tangible connection.
+'This week's visit to Sunrise Senior Housing is sponsored by XYZ
+Bank' creates a tangible connection.
 
 Tiered packages offer options at different price points. A \$50,000
 presenting sponsor package might include vehicle branding, event
@@ -92,7 +92,7 @@ The Sponsorship Pitch
 
 Approaching sponsors effectively requires preparation.
 
-Research first. Understand the company\'s community investment
+Research first. Understand the company's community investment
 priorities, past sponsorships, and decision-making processes. Generic
 pitches fail.
 
@@ -106,7 +106,7 @@ them numbers.
 
 Present professional materials. A clear sponsorship deck with photos,
 impact data, package options, and recognition examples demonstrates that
-you\'ll represent sponsors well.
+you'll represent sponsors well.
 
 Ask for appropriate amounts. Research comparable sponsorships in your
 area. Asking too little undervalues your program. Asking too much prices
@@ -118,8 +118,8 @@ Managing Sponsor Relationships
 Securing sponsorship is just the beginning.
 
 Deliver what you promised. If the package includes monthly social media
-mentions, make them. If it includes logo placement, ensure it\'s visible
-and quality. Broken promises don\'t get renewed.
+mentions, make them. If it includes logo placement, ensure it's visible
+and quality. Broken promises don't get renewed.
 
 Provide regular updates. Sponsors want to hear how their investment is
 being used. Quarterly reports, photo shares, and impact stories maintain
@@ -129,7 +129,7 @@ Invite participation. Include sponsors in events, introduce them to
 program staff, create opportunities for executive or employee
 involvement.
 
-Document for renewal. When renewal conversations come, you\'ll want
+Document for renewal. When renewal conversations come, you'll want
 evidence of value delivered. Maintain records of all recognition, reach
 metrics, and engagement activities.
 

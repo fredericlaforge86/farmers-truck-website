@@ -99,7 +99,7 @@ weeks. Short-term measurement may miss real effects.
 
 Accept limitations. Definitive proof that mobile markets cause specific
 health outcomes is methodologically difficult. Promising evidence with
-appropriate caveats is realistic. Iron-clad proof usually isn\'t.
+appropriate caveats is realistic. Iron-clad proof usually isn't.
 
 What Funders Should Ask For
 ---------------------------
@@ -116,14 +116,14 @@ Some outcome data for larger investments. Customer surveys and food
 access indicators are reasonable to expect for grants above \$50,000 to
 \$100,000.
 
-Realistic impact claims. Programs shouldn\'t overstate evidence. \'We
-served 5,000 customers and survey data shows improved food access\' is
-honest. \'We reduced diabetes by 20%\' without rigorous evidence is not.
+Realistic impact claims. Programs shouldn't overstate evidence. 'We
+served 5,000 customers and survey data shows improved food access' is
+honest. 'We reduced diabetes by 20%' without rigorous evidence is not.
 
 The Cost of Measurement
 -----------------------
 
-Measurement isn\'t free. Funders should consider whether to fund
+Measurement isn't free. Funders should consider whether to fund
 evaluation specifically.
 
 Basic tracking requires POS systems and modest staff time. Perhaps 5 to

@@ -1,7 +1,7 @@
 ---
 title: "How to Choose Mobile Market Stop Locations"
 date: "2026-01-29"
-excerpt: "Stop locations determine everything about a mobile grocery store\'s"
+excerpt: "Stop locations determine everything about a mobile grocery store's"
 category: "Implementation"
 slug: "mobile-market-stop-locations"
 pillar: "how-to-start-a-mobile-market"
@@ -9,7 +9,7 @@ relatedSolutions: ['farmers-truck', 'pantry-truck', 'cherry-truck']
 ---
 
 
-Stop locations determine everything about a mobile grocery store\'s
+Stop locations determine everything about a mobile grocery store's
 effectiveness. The right locations put you in front of customers who
 need you. The wrong locations leave you serving empty parking lots.
 
@@ -19,7 +19,7 @@ Start with Need, Not Convenience
 --------------------------------
 
 The temptation is to start with locations that are easy. Places you
-already know. Partners who\'ve offered space. Convenient logistics.
+already know. Partners who've offered space. Convenient logistics.
 
 Resist this temptation.
 
@@ -38,14 +38,14 @@ Types of Locations That Work
 Several location types have proven effective for mobile markets.
 
 Public housing and affordable housing complexes concentrate the
-population you\'re trying to serve. Residents typically have limited
+population you're trying to serve. Residents typically have limited
 transportation and fixed incomes. The built environment provides natural
 gathering spaces. Property managers can help promote the market to
 residents.
 
 Senior housing, both subsidized and market-rate, works well for similar
 reasons. Older adults face mobility and transportation barriers.
-They\'re often home during market hours. Social connection makes the
+They're often home during market hours. Social connection makes the
 market appealing beyond just groceries.
 
 Schools and community centers draw families and children. After-school
@@ -57,7 +57,7 @@ neighborhoods where residents may be wary of unfamiliar programs. Faith
 partners can promote the market through their networks.
 
 Healthcare facilities like clinics, hospitals, and community health
-centers connect to patients who\'ve been identified as food-insecure
+centers connect to patients who've been identified as food-insecure
 through screening. Patients can shop as part of an existing healthcare
 visit.
 
@@ -101,27 +101,27 @@ whoever influences the location. Explain your program. Ask about
 community needs. Listen to concerns.
 
 Strong partners promote the market, encourage residents to try it, and
-troubleshoot problems. They give you credibility you can\'t build alone.
+troubleshoot problems. They give you credibility you can't build alone.
 Locations without this relationship tend to struggle.
 
-Don\'t launch at a location where you don\'t know anyone. The market
+Don't launch at a location where you don't know anyone. The market
 will feel like an outside intrusion rather than a community resource.
 
 Testing and Iteration
 ---------------------
 
-Accept that your initial location choices won\'t all work. Some stops
-will thrive. Others won\'t, despite reasonable assumptions.
+Accept that your initial location choices won't all work. Some stops
+will thrive. Others won't, despite reasonable assumptions.
 
-Start with enough stops to test patterns but not so many that you\'re
+Start with enough stops to test patterns but not so many that you're
 spread thin. Eight to twelve stops is a reasonable starting range for a
 new program.
 
 Track results at each location: customer counts, sales, repeat rates.
-After three to six months of consistent operation, you\'ll have data to
+After three to six months of consistent operation, you'll have data to
 inform decisions.
 
-Be willing to discontinue stops that aren\'t working and shift resources
+Be willing to discontinue stops that aren't working and shift resources
 to higher-performing locations or new opportunities. Persistence
 matters. So does adaptation.
 
@@ -129,7 +129,7 @@ Common Mistakes
 ---------------
 
 Choosing locations for convenience rather than need leads to serving
-populations that have other options while missing those who don\'t.
+populations that have other options while missing those who don't.
 
 Launching without community partnerships means starting cold, without
 promotion or trust. Customer acquisition is slow and uncertain.
@@ -137,7 +137,7 @@ promotion or trust. Customer acquisition is slow and uncertain.
 Spreading too thin across too many stops dilutes your presence at each.
 Better to be excellent at eight stops than mediocre at fifteen.
 
-Giving up too soon on promising locations doesn\'t account for the
+Giving up too soon on promising locations doesn't account for the
 trust-building that takes months. But staying too long at failing
 locations wastes resources.
 

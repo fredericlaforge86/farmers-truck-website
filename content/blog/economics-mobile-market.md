@@ -84,18 +84,18 @@ If gross margin is 40% and operating costs (excluding COGS) are
 Divide by weeks (say, 50 operating weeks): \$375,000 divided by 50 =
 \$7,500 per week needed to break even.
 
-If average transaction is \$18, that\'s 417 transactions per week, or
+If average transaction is \$18, that's 417 transactions per week, or
 about 28 per stop across 15 stops.
 
-This calculation helps test assumptions. If you don\'t think you can
-achieve 28 customers per stop on average, the model doesn\'t work
+This calculation helps test assumptions. If you don't think you can
+achieve 28 customers per stop on average, the model doesn't work
 without changes to costs, prices, or scale.
 
 Scale Effects
 -------------
 
 Single-vehicle operations are hard to make profitable. Fixed costs like
-overhead, management, and insurance don\'t decrease proportionally when
+overhead, management, and insurance don't decrease proportionally when
 volume is small.
 
 Multiple-vehicle operations achieve better economics. A second truck
@@ -103,7 +103,7 @@ adds revenue capacity without doubling overhead. Management time spreads
 across more sales. Purchasing power increases.
 
 Operators who achieve profitability typically run two or more vehicles.
-This isn\'t universal, but it\'s common enough to suggest that scale
+This isn't universal, but it's common enough to suggest that scale
 matters.
 
 Realistic Expectations
@@ -111,7 +111,7 @@ Realistic Expectations
 
 For mission-driven organizations serving low-income populations, full
 commercial viability may not be the right goal. Subsidized pricing and
-serving areas with limited purchasing power don\'t maximize revenue.
+serving areas with limited purchasing power don't maximize revenue.
 These programs operate with grant support and accept operating losses as
 the cost of achieving mission.
 

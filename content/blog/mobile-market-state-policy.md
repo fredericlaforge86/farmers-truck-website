@@ -1,5 +1,5 @@
 ---
-title: "State Policy and Mobile Markets: Who\'s Leading?"
+title: "State Policy and Mobile Markets: Who's Leading?"
 date: "2026-01-29"
 excerpt: "State-level policy shapes the environment for mobile markets. Through"
 category: "Funding"
@@ -28,13 +28,13 @@ farm-to-community connection is strong.
 
 New York has integrated mobile markets into statewide food security
 strategy. Programs like the Healthy Food & Healthy Communities Fund have
-provided capital for mobile market vehicles. The state\'s strong food
+provided capital for mobile market vehicles. The state's strong food
 policy council network has advocated for mobile market-supportive
 policies.
 
 Massachusetts has supported mobile markets through both state health
 department initiatives and nonprofit food system organizations. The
-state\'s relatively dense population and strong public health
+state's relatively dense population and strong public health
 infrastructure create favorable conditions.
 
 Washington state has invested in mobile markets as part of broader food
@@ -81,7 +81,7 @@ mobile vending make it difficult to find legal stop locations.
 Limited state investment: States without food access funding programs or
 healthy food financing initiatives offer fewer resources.
 
-Regulatory ambiguity: When it\'s unclear how mobile markets fit into
+Regulatory ambiguity: When it's unclear how mobile markets fit into
 existing food retail regulations, operators face uncertainty and
 potential compliance problems.
 

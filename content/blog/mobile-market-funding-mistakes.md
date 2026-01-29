@@ -18,7 +18,7 @@ Funding Vehicles Without Operations
 -----------------------------------
 
 The classic failure: a funder provides \$150,000 for a mobile market
-truck. The recipient acquires the truck. Then they discover they can\'t
+truck. The recipient acquires the truck. Then they discover they can't
 afford to operate it.
 
 Vehicles require ongoing fuel, maintenance, insurance, and staffing. A
@@ -39,24 +39,24 @@ Stop locations need adjustment. Operations require learning and
 refinement. A program evaluated at month six looks very different from
 the same program at month eighteen.
 
-One-year grants set programs up to fail. Just as they\'re gaining
-traction, they\'re writing grant reports and scrambling for renewal
+One-year grants set programs up to fail. Just as they're gaining
+traction, they're writing grant reports and scrambling for renewal
 rather than building the program.
 
 What funders should do instead: Provide multi-year funding wherever
 possible. Two to three-year grants allow programs to develop beyond
-startup struggles. If multi-year isn\'t possible, be clear about renewal
+startup struggles. If multi-year isn't possible, be clear about renewal
 likelihood so programs can plan.
 
 Unrealistic Self-Sufficiency Expectations
 -----------------------------------------
 
 Some funders expect mobile markets to become self-sustaining within a
-few years. \'We\'ll fund startup, then you\'ll cover costs through
-sales.\'
+few years. 'We'll fund startup, then you'll cover costs through
+sales.'
 
 This rarely works for mission-driven programs. Serving low-income
-populations with subsidized pricing doesn\'t generate profits. Sales
+populations with subsidized pricing doesn't generate profits. Sales
 revenue can contribute to costs but seldom covers them entirely.
 
 Programs that promise self-sufficiency to secure funding often fail when
@@ -71,14 +71,14 @@ self-sustaining enterprises.
 Overlooking Organizational Capacity
 -----------------------------------
 
-A compelling proposal doesn\'t mean a capable organization. Mobile
+A compelling proposal doesn't mean a capable organization. Mobile
 markets require logistics management, food handling expertise, community
 relationships, and operational consistency. Organizations without these
 capabilities struggle regardless of funding.
 
 Funders sometimes prioritize mission alignment or community
 representation over operational capacity. These factors matter, but they
-don\'t substitute for ability to execute.
+don't substitute for ability to execute.
 
 What funders should do instead: Assess organizational capability
 alongside mission and need. Ask about relevant experience, key staff
@@ -88,12 +88,12 @@ capacity-building support alongside program funding.
 Single-Funder Dependence
 ------------------------
 
-Programs funded entirely by one source are fragile. When that funder\'s
+Programs funded entirely by one source are fragile. When that funder's
 priorities shift or budgets tighten, the program ends. Regardless of
 community impact.
 
 Funders sometimes enjoy being the sole supporter of a program, but this
-creates unhealthy dependence. The program optimizes for one funder\'s
+creates unhealthy dependence. The program optimizes for one funder's
 preferences rather than building broad support.
 
 What funders should do instead: Encourage and support funding
@@ -107,7 +107,7 @@ Programs that launch without sustainability plans often fail when
 initial funding ends. The excitement of launch obscures the reality that
 year three and four need funding too.
 
-Funders who don\'t require sustainability planning enable this failure.
+Funders who don't require sustainability planning enable this failure.
 They fund promising launches without asking what comes next.
 
 What funders should do instead: Require sustainability plans in grant
@@ -125,7 +125,7 @@ repeated elsewhere.
 What funders should do instead: Require honest final reports from
 unsuccessful programs. What went wrong? What would they do differently?
 Share learnings (appropriately anonymized) to benefit the field. Failure
-isn\'t shameful. Failing to learn from it is.
+isn't shameful. Failing to learn from it is.
 
 For more on funding mobile markets effectively, see: Funding Mobile
 Markets at Scale.

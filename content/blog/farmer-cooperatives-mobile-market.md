@@ -15,7 +15,7 @@ logistics, can make the model work. A mobile market offers cooperatives
 a direct-to-consumer channel that captures retail margins and builds
 customer relationships.
 
-Why Cooperatives Can Do What Individual Farms Can\'t
+Why Cooperatives Can Do What Individual Farms Can't
 ----------------------------------------------------
 
 The mobile market economics that challenge single farms work differently
@@ -23,7 +23,7 @@ at cooperative scale.
 
 Capital pooling makes vehicle acquisition feasible. A \$150,000
 refrigerated food truck is prohibitive for most individual farms. Split
-across ten farm members, it\'s \$15,000 each. Still significant but
+across ten farm members, it's \$15,000 each. Still significant but
 potentially manageable.
 
 Product diversity attracts customers. A single farm might grow tomatoes
@@ -37,7 +37,7 @@ distributes the time commitment.
 
 Risk distribution protects against crop failures. If one farm has a bad
 season, others can fill the gap. The market maintains consistency even
-when individual farms can\'t.
+when individual farms can't.
 
 Cooperative Structures for Mobile Markets
 -----------------------------------------
@@ -71,7 +71,7 @@ Product coordination: Who supplies what, and when? Avoiding duplicative
 products while ensuring variety requires planning. Some cooperatives use
 weekly supply commitments. Others coordinate more loosely.
 
-Quality consistency: The market\'s reputation depends on consistent
+Quality consistency: The market's reputation depends on consistent
 quality regardless of which farm supplies a given product. Cooperatives
 need quality standards and accountability mechanisms.
 
@@ -105,7 +105,7 @@ are consignment. This balances risk and flexibility.
 
 Cost sharing might be equal among members, proportional to product
 supplied, proportional to sales revenue, or some combination. What
-matters is that it\'s agreed and perceived as fair.
+matters is that it's agreed and perceived as fair.
 
 Making It Work
 --------------

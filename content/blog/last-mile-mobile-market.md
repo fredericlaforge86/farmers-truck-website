@@ -10,8 +10,8 @@ relatedSolutions: ['farmers-truck', 'cherry-truck']
 
 
 Grocery delivery apps have transformed how many people shop. But the
-delivery model has significant gaps. Areas it doesn\'t serve well.
-Populations it excludes. Costs that don\'t work for everyone.
+delivery model has significant gaps. Areas it doesn't serve well.
+Populations it excludes. Costs that don't work for everyone.
 
 A mobile grocery store offers an alternative last-mile approach worth
 considering.
@@ -20,7 +20,7 @@ Where Delivery Apps Fall Short
 ------------------------------
 
 Grocery delivery services have expanded rapidly, but their coverage
-isn\'t universal.
+isn't universal.
 
 Geographic limitations persist. Delivery services prioritize dense,
 affluent areas where order volumes are high and delivery economics work.
@@ -33,12 +33,12 @@ Older adults, low-income households without data plans, and people with
 limited technology experience are often excluded.
 
 Minimum orders and delivery fees make small purchases uneconomical. A
-household wanting \$15 of groceries can\'t justify a \$10 delivery fee
+household wanting \$15 of groceries can't justify a \$10 delivery fee
 plus service charges. Delivery economics favor larger, less frequent
 orders. Not the weekly small-basket shopping that many households
 prefer.
 
-Payment limitations matter. Many delivery services don\'t accept
+Payment limitations matter. Many delivery services don't accept
 SNAP/EBT benefits, excluding food-insecure households that rely on them.
 Even services that accept EBT may have confusing interfaces or
 additional restrictions.
@@ -56,19 +56,19 @@ A grocery truck addresses many of these gaps differently.
 Geographic reach follows need rather than profitability. A mobile market
 can serve rural routes, small towns, and underserved neighborhoods that
 delivery services skip. The economics work differently. Community
-benefit justifies routes that pure profit calculations wouldn\'t
+benefit justifies routes that pure profit calculations wouldn't
 support.
 
 No technology required to participate. Customers shop in person, pay
 with cash, card, or EBT, and carry their purchases home. Digital
-literacy isn\'t a barrier.
+literacy isn't a barrier.
 
-Small purchases are welcome. There\'s no minimum order. No delivery fee.
+Small purchases are welcome. There's no minimum order. No delivery fee.
 No pressure to buy more than you need. A customer can buy three items or
 thirty.
 
 SNAP/EBT is accepted seamlessly. Benefits work just like at any grocery
-store. There\'s no app interface to navigate, no separate checkout
+store. There's no app interface to navigate, no separate checkout
 process.
 
 Customers select their own products. They can examine produce, compare
@@ -99,7 +99,7 @@ markets are relational.
 Where Delivery Has Advantages
 -----------------------------
 
-Mobile markets don\'t win every comparison.
+Mobile markets don't win every comparison.
 
 Selection breadth: A delivery service connected to a full supermarket
 offers thousands of products. A mobile market offers dozens to hundreds.
@@ -114,12 +114,12 @@ daily. Mobile markets typically visit any given location weekly.
 Complementary, Not Competing
 ----------------------------
 
-For most grocers and food systems, the question isn\'t delivery versus
-mobile markets. It\'s how both fit into a complete distribution
+For most grocers and food systems, the question isn't delivery versus
+mobile markets. It's how both fit into a complete distribution
 strategy.
 
 Delivery serves customers who prefer it and can access it. Mobile
-markets serve those who can\'t or won\'t use delivery. Together, they
+markets serve those who can't or won't use delivery. Together, they
 extend reach further than either alone.
 
 A regional grocer might offer delivery in its main market area while

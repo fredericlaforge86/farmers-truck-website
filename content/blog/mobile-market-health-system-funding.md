@@ -11,7 +11,7 @@ relatedSolutions: ['farmers-truck', 'pantry-truck']
 
 Health system funding has become a significant source of support for
 mobile markets. As hospitals recognize fresh food access as a health
-determinant, they\'re investing in programs that address it.
+determinant, they're investing in programs that address it.
 Understanding how these partnerships work helps both health systems
 structuring programs and operators seeking partners.
 
@@ -43,7 +43,7 @@ Health system mobile market involvement takes several forms.
 
 Direct operation: The health system owns and operates the mobile market
 as part of its operations. The mobile market is staffed by health system
-employees or contractors, appears on the hospital\'s budget, and
+employees or contractors, appears on the hospital's budget, and
 operates according to health system policies.
 
 Advantages: Maximum control, direct integration with clinical care,
@@ -84,7 +84,7 @@ benefit activities, including mobile markets. These funds may have
 separate governance and reporting.
 
 Grant awards (internal foundation): Hospital-affiliated foundations may
-provide grants to mobile market programs, including the hospital\'s own
+provide grants to mobile market programs, including the hospital's own
 program or external operators.
 
 Pass-through funding: Health systems may channel external grant funding
@@ -123,7 +123,7 @@ Costs will be ongoing. Mobile markets require sustained funding, not
 one-time grants. Budget for year-over-year support.
 
 Utilization takes time to build. Patient participation grows as
-awareness spreads. Don\'t expect immediate high volumes.
+awareness spreads. Don't expect immediate high volumes.
 
 Attribution is imperfect. Connecting mobile market participation to
 health outcomes definitively is methodologically difficult. Accept

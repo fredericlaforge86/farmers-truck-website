@@ -11,7 +11,7 @@ relatedSolutions: ['farmers-truck', 'pantry-truck', 'cherry-truck']
 
 Every mobile market operator faces the staffing question: paid
 employees, volunteers, or some combination? The choice affects costs,
-consistency, capabilities, and culture. There\'s no universally right
+consistency, capabilities, and culture. There's no universally right
 answer, but the tradeoffs are clear.
 
 The Case for Paid Staff
@@ -22,7 +22,7 @@ livelihood depends on it. You can plan operations around reliable
 availability. Customers see the same faces and build relationships.
 
 Training investments pay off over time. Paid staff stay longer,
-accumulating knowledge and skills. You\'re not constantly retraining as
+accumulating knowledge and skills. You're not constantly retraining as
 volunteers cycle through.
 
 Accountability is clearer. When someone is paid for a job, expectations
@@ -65,7 +65,7 @@ Quality control is harder. Volunteers do the work differently than paid
 staff. Managing them requires different approaches than employee
 supervision.
 
-Recruitment and coordination require ongoing effort. You\'ll spend
+Recruitment and coordination require ongoing effort. You'll spend
 significant time finding, training, scheduling, and thanking volunteers.
 This is real work that has to be done by someone.
 
@@ -91,7 +91,7 @@ assistance, promotion).
 Volunteer Management Realities
 ------------------------------
 
-If you\'re relying on volunteers, plan for the management burden.
+If you're relying on volunteers, plan for the management burden.
 
 Recruitment is ongoing. Volunteers leave, move, burn out, get busy. You
 need continuous recruiting to maintain capacity. Budget time for this.
@@ -108,8 +108,8 @@ Recognition matters. Volunteers work for meaning, not money.
 Acknowledging contributions, celebrating successes, and making the
 experience rewarding retains good volunteers.
 
-Some volunteers won\'t work out. Not everyone is suited to market work.
-You need graceful ways to redirect or release volunteers who aren\'t a
+Some volunteers won't work out. Not everyone is suited to market work.
+You need graceful ways to redirect or release volunteers who aren't a
 good fit.
 
 Making the Decision
@@ -134,7 +134,7 @@ communities may not.
 
 Organizational capacity: Can you realistically manage volunteers? If
 volunteer coordination would consume the time of someone who should be
-doing something else, the \'savings\' may be illusory.
+doing something else, the 'savings' may be illusory.
 
 For more on starting a mobile market, see: How to Start a Mobile Market
 Program.

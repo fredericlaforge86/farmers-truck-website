@@ -10,7 +10,7 @@ relatedSolutions: ['farmers-truck', 'cherry-truck']
 
 
 Food hubs aggregate, distribute, and market local food. They connect
-farms to buyers at a scale that individual farms can\'t achieve. Most
+farms to buyers at a scale that individual farms can't achieve. Most
 food hub sales go to wholesale channels: restaurants, institutions,
 grocery stores.
 
@@ -29,7 +29,7 @@ tomatoes sold to a restaurant at \$20 might sell to consumers at \$40
 through a mobile market.
 
 Outlet for imperfect product: Wholesale channels often demand
-uniformity. Produce that\'s perfectly good but wrong-sized, oddly
+uniformity. Produce that's perfectly good but wrong-sized, oddly
 shaped, or in small quantities may not fit wholesale requirements.
 Retail channels are more forgiving.
 
@@ -59,7 +59,7 @@ featured at the mobile market. Their stories add value. The market
 becomes a showcase for your supply network.
 
 Logistics capability exists. You already manage distribution: receiving,
-storing, packing, routing. A mobile market adds complexity but doesn\'t
+storing, packing, routing. A mobile market adds complexity but doesn't
 require building logistics from scratch.
 
 Implementation Considerations
@@ -69,18 +69,18 @@ Adding a mobile market to a food hub operation involves decisions on
 several fronts.
 
 Product selection bridges wholesale and retail. Some products you handle
-for wholesale work well at retail. Others don\'t. Retail customers want
+for wholesale work well at retail. Others don't. Retail customers want
 variety, reasonable portions, and products ready to use. Your wholesale
 product mix may need adjustment.
 
 Pricing requires retail thinking. Wholesale pricing is cost-plus for
-business buyers. Retail pricing is value-based for consumers. You\'re
+business buyers. Retail pricing is value-based for consumers. You're
 competing with (or complementing) grocery stores, farmers markets, and
 other retail options. Price accordingly.
 
 Staffing and operations differ from warehouse work. Customer-facing
 retail requires different skills. Service orientation. Sales ability.
-Community engagement. Don\'t assume wholesale staff automatically
+Community engagement. Don't assume wholesale staff automatically
 translate to retail success.
 
 Brand and marketing need development. Your wholesale brand may be
@@ -95,13 +95,13 @@ Mobile markets can add revenue, but they also add costs. Be realistic
 about the financial picture.
 
 Vehicle, equipment, staffing, and operations require investment. A
-mobile market isn\'t free incremental revenue on existing
-infrastructure. It\'s a new channel with its own cost structure.
+mobile market isn't free incremental revenue on existing
+infrastructure. It's a new channel with its own cost structure.
 
 Scale matters. A mobile market selling \$3,000 per week in groceries at
 40% margin generates \$1,200 gross profit weekly. If operations cost
 \$1,000 weekly, the contribution is \$200. That might be worthwhile for
-strategic reasons. But it\'s not transformative financially.
+strategic reasons. But it's not transformative financially.
 
 Food hubs that succeed with mobile markets typically treat them as part
 of a larger strategy. Community presence. Mission delivery. Outlet for
@@ -124,8 +124,8 @@ through or product arrives in excess, retail provides an outlet. This
 flexibility has real value.
 
 But maintain boundaries. Retail customers expect consistent
-availability. Don\'t treat the mobile market as a dumping ground for
-whatever wholesale didn\'t take. Balance flexibility with reliability.
+availability. Don't treat the mobile market as a dumping ground for
+whatever wholesale didn't take. Balance flexibility with reliability.
 
 For more on commercial mobile market approaches, see: The Mobile Grocery
 Store Model.

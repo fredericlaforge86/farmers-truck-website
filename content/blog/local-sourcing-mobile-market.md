@@ -13,7 +13,7 @@ Local sourcing can differentiate a mobile market, support regional
 agriculture, and resonate with customers who value local food. But
 building reliable local supply relationships takes work.
 
-Here\'s how farmers and mobile market operators can build effective
+Here's how farmers and mobile market operators can build effective
 partnerships.
 
 Why Local Sourcing Matters
@@ -21,7 +21,7 @@ Why Local Sourcing Matters
 
 For mobile market operators, local sourcing offers several advantages.
 
-Product differentiation: \'Grown 30 miles from here\' is a story. Local
+Product differentiation: 'Grown 30 miles from here' is a story. Local
 products stand out from commodity produce available anywhere.
 
 Freshness: Shorter supply chains can mean fresher product. Tomatoes
@@ -99,16 +99,16 @@ farm, combining on-farm sales with mobile routes. Shared customer base
 and cross-promotion.
 
 The right structure depends on volumes, relationship history, and both
-parties\' risk tolerance.
+parties' risk tolerance.
 
 Common Challenges
 -----------------
 
-Local sourcing isn\'t without difficulties.
+Local sourcing isn't without difficulties.
 
-Inconsistent supply: Weather, pests, and crop failures affect what\'s
+Inconsistent supply: Weather, pests, and crop failures affect what's
 available. Local sourcing requires flexibility that commodity supply
-chains don\'t demand.
+chains don't demand.
 
 Seasonal limitations: Local sourcing in northern climates means
 different products in July versus January. Mobile markets relying
@@ -134,7 +134,7 @@ practice.
 Visit farms: Understanding where and how product is grown builds
 relationship and provides stories for customers.
 
-Provide feedback: Tell farmers what sells well and what doesn\'t. Share
+Provide feedback: Tell farmers what sells well and what doesn't. Share
 customer reactions. Useful feedback strengthens partnerships.
 
 Honor commitments: If you commit to buying certain volumes, follow
