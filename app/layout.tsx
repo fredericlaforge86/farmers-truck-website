@@ -26,20 +26,13 @@ export default function RootLayout({
         {/* Header */}
         <header className="bg-white/95 backdrop-blur-md py-4 sticky top-0 z-50 border-b border-gray-100 shadow-sm">
           <nav className="max-w-7xl mx-auto px-4 flex items-center justify-between">
-            <Link href="/" className="flex items-center gap-3 group">
-              <Image
-                src="/images/logo-icon.png"
-                alt="Farmers' Truck"
-                width={40}
-                height={40}
-                className="rounded-lg group-hover:scale-105 transition-transform"
-              />
+            <Link href="/" className="group">
               <Image
                 src="/images/logo-red.png"
                 alt="Farmers' Truck"
-                width={180}
-                height={36}
-                className="hidden sm:block"
+                width={220}
+                height={44}
+                className="group-hover:opacity-80 transition-opacity"
               />
             </Link>
             <div className="hidden lg:flex items-center space-x-1">
