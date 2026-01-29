@@ -106,7 +106,7 @@ export default function SolutionsPage() {
             We'll help you evaluate your needs, budget, and goals to find the right vehicle for your program.
           </p>
           <Link
-            href="https://meetings.hubspot.com/frederic-laforge"
+            href="https://meetings.hubspot.com/fred9/pd-booking"
             target="_blank"
             className="inline-block bg-ft-red text-white px-8 py-4 rounded-md font-medium hover:bg-red-800 transition text-lg"
           >

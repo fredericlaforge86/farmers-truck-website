@@ -61,7 +61,7 @@ export default async function BlogPost({ params }: { params: { slug: string } })
           <h3 className="font-serif text-xl italic text-ft-navy mb-2">Ready to learn more?</h3>
           <p className="text-ft-navy mb-4">Contact us to discuss your mobile market program.</p>
           <Link
-            href="https://meetings.hubspot.com/frederic-laforge"
+            href="https://meetings.hubspot.com/fred9/pd-booking"
             target="_blank"
             className="inline-block bg-ft-red text-white px-6 py-3 rounded-md font-medium hover:bg-red-800 transition"
           >

@@ -123,7 +123,7 @@ export default function AboutPage() {
             we're happy to share what we've learned.
           </p>
           <Link
-            href="https://meetings.hubspot.com/frederic-laforge"
+            href="https://meetings.hubspot.com/fred9/pd-booking"
             target="_blank"
             className="inline-block bg-ft-red text-white px-8 py-4 rounded-md font-medium hover:bg-red-800 transition text-lg"
           >

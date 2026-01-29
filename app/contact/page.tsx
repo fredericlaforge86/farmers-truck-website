@@ -26,7 +26,7 @@ export default function ContactPage() {
                 No sales pitch—just an honest conversation about what might work for your situation.
               </p>
               <a
-                href="https://meetings.hubspot.com/frederic-laforge"
+                href="https://meetings.hubspot.com/fred9/pd-booking"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block bg-ft-red text-white px-6 py-3 rounded-md font-medium hover:bg-red-800 transition"

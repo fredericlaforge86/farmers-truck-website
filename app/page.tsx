@@ -372,7 +372,7 @@ export default function Home() {
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <Link
-              href="https://meetings.hubspot.com/frederic-laforge"
+              href="https://meetings.hubspot.com/fred9/pd-booking"
               target="_blank"
               className="inline-flex items-center gap-2 bg-white text-ft-red px-8 py-4 rounded-lg font-medium hover:bg-ft-cream transition-all hover:shadow-lg hover:-translate-y-0.5"
             >

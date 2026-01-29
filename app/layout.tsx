@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import Image from 'next/image'
 import './globals.css'
 
 export const metadata: Metadata = {
@@ -25,15 +26,21 @@ export default function RootLayout({
         {/* Header */}
         <header className="bg-white/95 backdrop-blur-md py-4 sticky top-0 z-50 border-b border-gray-100 shadow-sm">
           <nav className="max-w-7xl mx-auto px-4 flex items-center justify-between">
-            <Link href="/" className="flex items-center gap-2 group">
-              <div className="w-10 h-10 bg-ft-red rounded-lg flex items-center justify-center group-hover:scale-105 transition-transform">
-                <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
-                </svg>
-              </div>
-              <span className="text-xl font-serif font-bold text-ft-navy group-hover:text-ft-red transition-colors">
-                Farmers' Truck<sup className="text-[10px]">™</sup>
-              </span>
+            <Link href="/" className="flex items-center gap-3 group">
+              <Image
+                src="/images/logo-icon.png"
+                alt="Farmers' Truck"
+                width={40}
+                height={40}
+                className="rounded-lg group-hover:scale-105 transition-transform"
+              />
+              <Image
+                src="/images/logo-red.png"
+                alt="Farmers' Truck"
+                width={180}
+                height={36}
+                className="hidden sm:block"
+              />
             </Link>
             <div className="hidden lg:flex items-center space-x-1">
               <Link href="/about" className="text-ft-gray hover:text-ft-red hover:bg-ft-red/5 px-4 py-2 rounded-lg transition-all font-medium text-sm">About Us</Link>
@@ -43,7 +50,7 @@ export default function RootLayout({
               <Link href="/contact" className="text-ft-gray hover:text-ft-red hover:bg-ft-red/5 px-4 py-2 rounded-lg transition-all font-medium text-sm">Contact</Link>
               <div className="w-px h-6 bg-gray-200 mx-2" />
               <Link
-                href="https://meetings.hubspot.com/frederic-laforge"
+                href="https://meetings.hubspot.com/fred9/pd-booking"
                 target="_blank"
                 className="bg-ft-red text-white px-5 py-2.5 rounded-lg hover:bg-red-800 transition-all font-medium text-sm hover:shadow-lg hover:shadow-ft-red/25 hover:-translate-y-0.5 flex items-center gap-2"
               >
@@ -77,13 +84,14 @@ export default function RootLayout({
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-12 mb-12">
               {/* Logo & Contact */}
               <div className="lg:col-span-1">
-                <div className="flex items-center gap-2 mb-6">
-                  <div className="w-10 h-10 bg-ft-red rounded-lg flex items-center justify-center">
-                    <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
-                    </svg>
-                  </div>
-                  <span className="font-serif font-bold text-xl text-white">Farmers' Truck<sup className="text-[10px]">™</sup></span>
+                <div className="mb-6">
+                  <Image
+                    src="/images/logo-badge.png"
+                    alt="Farmers' Truck"
+                    width={200}
+                    height={50}
+                    className="mb-2"
+                  />
                 </div>
                 <p className="text-gray-400 text-sm mb-6 leading-relaxed">
                   Making fresh, accessible food a reality in every community across North America.

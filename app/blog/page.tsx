@@ -137,7 +137,7 @@ export default function BlogPage() {
             We're happy to discuss your specific situation and help you figure out next steps.
           </p>
           <Link
-            href="https://meetings.hubspot.com/frederic-laforge"
+            href="https://meetings.hubspot.com/fred9/pd-booking"
             target="_blank"
             className="inline-block bg-ft-red text-white px-8 py-3 rounded-md font-medium hover:bg-red-800 transition"
           >
