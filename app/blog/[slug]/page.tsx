@@ -30,56 +30,71 @@ export default async function BlogPost({ params }: { params: { slug: string } })
     : []
 
   return (
-    <article className="max-w-4xl mx-auto px-4 py-12">
-      {/* Breadcrumb */}
-      <nav className="text-sm text-gray-500 mb-6">
-        <Link href="/" className="hover:text-ft-orange">Home</Link>
-        <span className="mx-2">/</span>
-        <Link href="/blog" className="hover:text-ft-orange">Blog</Link>
-        <span className="mx-2">/</span>
-        <span className="text-gray-700">{post.title}</span>
-      </nav>
+    <div className="bg-ft-cream min-h-screen">
+      <article className="max-w-4xl mx-auto px-4 py-12">
+        {/* Breadcrumb */}
+        <nav className="text-sm text-ft-gray mb-6">
+          <Link href="/" className="hover:text-ft-red">Home</Link>
+          <span className="mx-2">/</span>
+          <Link href="/blog" className="hover:text-ft-red">Blog</Link>
+          <span className="mx-2">/</span>
+          <span className="text-ft-navy">{post.title}</span>
+        </nav>
 
-      {/* Header */}
-      <header className="mb-8">
-        <span className="text-ft-orange text-sm font-medium uppercase tracking-wide">
-          {post.category}
-        </span>
-        <h1 className="text-4xl font-bold text-ft-green mt-2 mb-4">{post.title}</h1>
-        <p className="text-gray-500">{post.date}</p>
-      </header>
+        {/* Header */}
+        <header className="mb-8">
+          <span className="text-ft-red text-sm font-medium uppercase tracking-wide">
+            {post.category}
+          </span>
+          <h1 className="font-serif text-4xl italic text-ft-navy mt-2 mb-4">{post.title}</h1>
+          <p className="text-ft-gray">{post.date}</p>
+        </header>
 
-      {/* Content */}
-      <div
-        className="prose max-w-none"
-        dangerouslySetInnerHTML={{ __html: contentHtml }}
-      />
+        {/* Content */}
+        <div
+          className="prose max-w-none bg-white p-8 rounded-lg shadow-sm"
+          dangerouslySetInnerHTML={{ __html: contentHtml }}
+        />
 
-      {/* Related Posts */}
-      {relatedPosts.length > 0 && (
-        <section className="mt-12 pt-8 border-t">
-          <h2 className="text-2xl font-bold text-ft-green mb-6">Related Articles</h2>
-          <div className="grid md:grid-cols-3 gap-4">
-            {relatedPosts.map((related) => (
-              <Link
-                key={related.slug}
-                href={`/blog/${related.slug}`}
-                className="p-4 border rounded hover:shadow transition"
-              >
-                <h3 className="font-semibold hover:text-ft-green">{related.title}</h3>
-                <p className="text-sm text-gray-500 mt-1">{related.excerpt.slice(0, 80)}...</p>
-              </Link>
-            ))}
-          </div>
-        </section>
-      )}
+        {/* CTA */}
+        <div className="mt-8 p-6 bg-ft-gold rounded-lg text-center">
+          <h3 className="font-serif text-xl italic text-ft-navy mb-2">Ready to learn more?</h3>
+          <p className="text-ft-navy mb-4">Contact us to discuss your mobile market program.</p>
+          <Link
+            href="https://meetings.hubspot.com/frederic-laforge"
+            target="_blank"
+            className="inline-block bg-ft-red text-white px-6 py-3 rounded-md font-medium hover:bg-red-800 transition"
+          >
+            Book a Call
+          </Link>
+        </div>
 
-      {/* Back Link */}
-      <div className="mt-8">
-        <Link href="/blog" className="text-ft-orange hover:text-ft-green font-medium">
-          ← Back to all articles
-        </Link>
-      </div>
-    </article>
+        {/* Related Posts */}
+        {relatedPosts.length > 0 && (
+          <section className="mt-12 pt-8 border-t border-gray-200">
+            <h2 className="font-serif text-2xl italic text-ft-navy mb-6">Related Articles</h2>
+            <div className="grid md:grid-cols-3 gap-4">
+              {relatedPosts.map((related) => (
+                <Link
+                  key={related.slug}
+                  href={`/blog/${related.slug}`}
+                  className="p-4 bg-white rounded-lg hover:shadow-md transition"
+                >
+                  <h3 className="font-serif text-lg text-ft-navy hover:text-ft-red">{related.title}</h3>
+                  <p className="text-sm text-ft-gray mt-1 line-clamp-2">{related.excerpt}</p>
+                </Link>
+              ))}
+            </div>
+          </section>
+        )}
+
+        {/* Back Link */}
+        <div className="mt-8">
+          <Link href="/blog" className="text-ft-red hover:text-ft-navy font-medium">
+            ← Back to all articles
+          </Link>
+        </div>
+      </article>
+    </div>
   )
 }
